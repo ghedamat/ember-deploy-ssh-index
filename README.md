@@ -1,6 +1,7 @@
 # ember-deploy-ssh-index
 
 [![NPM Version](https://img.shields.io/npm/v/ember-deploy-ssh-index.svg)](https://www.npmjs.com/package/ember-deploy-ssh-index) [![Build Status](https://img.shields.io/travis/treyhunner/ember-deploy-ssh-index/master.svg)](http://travis-ci.org/treyhunner/ember-deploy-ssh-index) [![Code Climate](https://img.shields.io/codeclimate/github/treyhunner/ember-deploy-ssh-index.svg)](https://codeclimate.com/github/treyhunner/ember-deploy-ssh-index) [![codecov.io](https://img.shields.io/codecov/c/github/treyhunner/ember-deploy-ssh-index/master.svg)](http://codecov.io/github/treyhunner/ember-deploy-ssh-index?branch=master)
+[![](https://ember-cli-deploy.github.io/ember-cli-deploy-version-badges/plugins/ember-deploy-ssh-index.svg)](http://ember-cli-deploy.github.io/ember-cli-deploy-version-badges/)
 
 
 This is an [ember-cli-deploy][] adapter for deploying your index page to a server via SSH. It works with ember-cli-deploy 0.4.x. I don't currently have any plans for 0.5.x compatibility, but would gladly accept a PR for this.
